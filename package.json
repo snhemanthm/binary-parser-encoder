@@ -1,7 +1,7 @@
 {
-  "name": "binary-parser",
-  "version": "2.2.1",
-  "description": "Blazing-fast binary parser builder",
+  "name": "@hemanthm/binary-parser-encoder",
+  "version": "2.2.2",
+  "description": "Blazing-fast binary parser and encoder builder",
   "main": "dist/binary_parser.js",
   "types": "dist/binary_parser.d.ts",
   "module": "dist/esm/binary_parser.mjs",
@@ -63,9 +63,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/Ericbla/binary-parser.git"
+    "url": "http://github.com/snhemanthm/binary-parser-encoder.git"
   },
-  "bugs": "http://github.com/Ericbla/binary-parser/issues",
+  "bugs": "http://github.com/snhemanthm/binary-parser-encoder/issues",
   "engines": {
     "node": ">=14"
   },
