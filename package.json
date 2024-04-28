@@ -1,7 +1,7 @@
 {
-  "name": "binary-parser",
-  "version": "2.2.1",
-  "description": "Blazing-fast binary parser builder",
+  "name": "@hemanthm/binary-parser",
+  "version": "2.2.2",
+  "description": "Blazing-fast binary parser and encoder builder",
   "main": "dist/binary_parser.js",
   "types": "dist/binary_parser.d.ts",
   "module": "dist/esm/binary_parser.mjs",
