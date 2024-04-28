@@ -1,3 +1,5 @@
+From https://github.com/keichi/binary-parser with patches from https://github.com/stereokai/binary-parser
+
 # Binary-parser
 
 [![build](https://github.com/keichi/binary-parser/workflows/build/badge.svg)](https://github.com/keichi/binary-parser/actions?query=workflow%3Abuild)
